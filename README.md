@@ -4,6 +4,8 @@
 
 基于Spring的整合微信支付，支付宝支付，银联支付（个人），银联支付（企业）。
 
+码云地址：https://gitee.com/liujun0128/basis-pay.git
+
 #### 软件架构
 
 - 基于Spring，使用了Spring的注解@Component@Service
