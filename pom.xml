@@ -19,7 +19,7 @@
         <jdom.version>2.0.2</jdom.version>
         <httpclient.version>4.5.12</httpclient.version>
         <httpcore.version>4.4.13</httpcore.version>
-        <bcprov-jdk15on.version>1.64</bcprov-jdk15on.version>
+        <bcprov-jdk15on.version>1.67</bcprov-jdk15on.version>
     </properties>
 
     <dependencies>
